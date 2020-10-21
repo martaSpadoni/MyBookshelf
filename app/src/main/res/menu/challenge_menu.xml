@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/edit_challenge"
+        android:title="@string/edit_challenge"></item>
+    <item android:id="@+id/delete_challenge"
+        android:title="@string/delete_challenge"></item>
+</menu>

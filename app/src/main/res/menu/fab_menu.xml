@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_manually"
+        android:title="@string/add_book_manually"></item>
+    <item android:id="@+id/search_book"
+        android:title="@string/search_book_to_add"></item>
+</menu>

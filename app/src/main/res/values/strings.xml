@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">My Bookshelf</string>
+    <string name="books_read">Read</string>
+    <string name="books_in_progress">In progress</string>
+    <string name="wishlist" translatable="false">Wishlist</string>
+    <string name="statistics">Statistics</string>
+    <string name="book_s_cover" translatable="false">book\'s cover</string>
+    <string name="title">Title</string>
+    <string name="author_optional">Author (optional)</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="image_taken" translatable="false">image taken</string>
+    <string name="cover_optional">Cover (optional)</string>
+    <string name="save">SAVE</string>
+    <string name="take_book_s_cover">Cover</string>
+    <string name="title_format">Title:</string>
+    <string name="bookmark_image" translatable="false">bookmark image</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="page">page</string>
+    <string name="start_reading_on">Start reading on</string>
+    <string name="quotes">Quotes</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="description">Description</string>
+    <string name="end_reading_on">End reading on</string>
+    <string name="write_a_review">write a review</string>
+    <string name="review">Review</string>
+    <string name="add_new_quote">add new quote</string>
+    <string name="start_reading">Start reading</string>
+    <string name="delete">DELETE</string>
+    <string name="add_book_manually">Add book manually</string>
+    <string name="search_book_to_add">Search book to add</string>
+    <string name="settings">Settings</string>
+    <string name="no_intern_available">No internet available.</string>
+    <string name="add">ADD</string>
+    <string name="cancel">cancel</string>
+    <string name="monthly_challenge" translatable="false">monthlyChallenge</string>
+    <string name="monthly_challenge_title">Monthly Challenge</string>
+    <string name="start">START</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="Edit">Edit</string>
+    <string name="books_started_reading">Books started reading</string>
+    <string name="books_read_title">Books Read</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="do_you_want_reading">Do you want to start reading \"</string>
+    <string name="do_you_want_add">Do you want to add \"</string>
+    <string name="want_delete">Delete \"</string>
+    <string name="leggi">Read</string>
+    <string name="more_to_win">" more books\n to win the challenge"</string>
+    <string name="your_monthly_challenge">Your monthly challenge</string>
+    <string name="add_new_monthly_challenge">Add new monthly challenge</string>
+    <string name="your_annual_challenge">Your annual challenge</string>
+    <string name="add_new_annual_challenge">Add new annual challenge</string>
+    <string name="books_read_this_year">Books read this year</string>
+    <string name="won">Congratulations!\n You won your challenge!</string>
+    <string name="want_start_this">Do you want to start reading this book?</string>
+    <string name="edit_challenge">Edit challenge</string>
+    <string name="delete_challenge">Delete Challenge</string>
+    <string name="edit_monthly_challenge">Edit your monthly challenge</string>
+    <string name="how_many_b_month">How many books do you want read this month?</string>
+    <string name="how_many_b_year">How many books do you want read this year?</string>
+    <string name="edit_annual_challenge">Edit your annual challenge</string>
+    <string name="average_books_read_per_month">Average books read per month</string>
+    <string name="average_books_read_per_year">Average books read per year</string>
+    <string name="yes">YES</string>
+    <string name="take_cover">Take a cover</string>
+    <string name="choose_cover">Choose a cover from gallery</string>
+</resources>
